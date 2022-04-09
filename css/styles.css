@@ -112,8 +112,8 @@ h2{
 }
 
 .home-images{
-  height:575px;
-  width: 440px;
+  height:715px;
+  width: 589px;
   margin-right: 10px;
 }
 
@@ -125,9 +125,9 @@ h2{
   color: white;
   font-family: 'Russo One', sans-serif;
   position: absolute;
-  top: 150px;
+  top: 20%;
   font-size: 350%;
-  left: 107px;
+  left: 20%;
   font-weight: normal;
   background-color: #EAEAEA;
   background: rgba(76, 175, 80, 0.1);
@@ -171,12 +171,12 @@ h2{
 }
 
 .shop-men2{
-  left: 400px;
+  right: 32%;
   padding: 15px 70px 15px 70px;
 }
 
 .shop-women2{
-  left: 700px;
+  left: 32%;
 }
 
 .fav-img{
